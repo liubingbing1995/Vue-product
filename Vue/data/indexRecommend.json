@@ -1,0 +1,267 @@
+{		
+	"result":{
+		"navList":[
+			{
+				"title":"推荐"
+			},
+			{
+				"title":"坚果炒货"
+			},
+			{
+				"title":"果干蜜饯"
+			},
+			{
+				"title":"肉脯海鲜"
+			},
+			{
+				"title":"礼盒专区"
+			},
+			{
+				"title":"糕点糖果"
+			},
+			{
+				"title":"豆干素食"
+			}
+		],
+		"bannerSwiperlist":[
+			{
+				"jumpPath":"/activity/newcomer",
+				"imgPath":"./img/25f4f6667f67d00af202a849ba4d6314.jpg"
+			},
+			{
+				"jumpPath":"/activity/detai",
+				"imgPath":"./img/6c7b006041e8eae2dea427ce158249d3.jpg"
+			}
+		],
+		"activityList":[
+			{
+				"jumpPath":"/activity/coup-center",
+				"imgPath":"./img/02943bb54fea04e4ad44166c0b09583a.png",
+				"title":"领券中心"
+			},
+			{
+				"jumpPath":"/activity/check-in",
+				"imgPath":"./img/4bbec0ae980d3f81aa9df90cc1151031.png",
+				"title":"签到有礼"
+			},
+			{
+				"jumpPath":"/activity/lottery",
+				"imgPath":"./img/5f9877aded42cbc1c7c24e922f444810.png",
+				"title":"积分抽奖"
+			},
+			{
+				"jumpPath":"/user-center/vip-center",
+				"imgPath":"./img/930174524b6ea22b89e5c06fb39e0d79.png",
+				"title":"会员中心"
+			}
+		],
+		"newcomerList":[
+			{
+				"jumpPath":"/activity/newcomer",
+				"imgPath":"./img/4c01e763bd11c66dec5cecbd7f987ceb.jpg"
+			}
+		],
+		"giftBagswiperList":[
+			{
+				"imgPath":"./img/a0f0260e3f8398c873ba63f44dd9ce4f.png",
+				"title":"零食大礼包 - -抢手货零食包1065g",
+				"price":"¥34.9 ",
+				"delPrice":"¥119.8"
+			},
+			{
+				"imgPath":"./img/9029823e57a695c719688c14c60c1fe7.jpg",
+				"title":"休闲零食大礼包A",
+				"price":"¥29.9 ",
+				"delPrice":"¥49.9"
+			},
+			{
+				"imgPath":"./img/075236fe1dbd0a614c6f427316d7c9e6.jpg",
+				"title":"休闲零食大礼包B",
+				"price":"¥29.9 ",
+				"delPrice":"¥49.9"
+			},
+			{
+				"imgPath":"./img/736ba9405de89d7b7832890722c0eeec.jpg",
+				"title":"休闲零食大礼包C",
+				"price":"¥29.9 ",
+				"delPrice":"¥49.9"
+			},
+			{
+				"imgPath":"./img/3645ccadfbef24b3692c35b768e6ed3a.jpg",
+				"title":"休闲零食大礼包D",
+				"price":"¥29.9 ",
+				"delPrice":"¥49.9"
+			},
+			{
+				"imgPath":"./img/eb3d5a640d2b263c4e3e4f7c93aa6c60.jpg",
+				"title":"网红休闲零食大礼包",
+				"price":"¥29.9 ",
+				"delPrice":"¥49.9"
+			},
+			{
+				"imgPath":"./img/b85b5f54f1d0c5ae4d1ddb5c5659f197.png",
+				"title":"趣味办公室零食大礼包830g(6包-含奶芙)",
+				"price":"¥39.9 ",
+				"delPrice":"¥89.9"
+			},
+			{
+				"imgPath":"./img/be2921757e543d7564ac8eb619c8a211.jpg",
+				"title":"原味手撕面包1kg/整箱",
+				"price":"¥24.9 ",
+				"delPrice":"¥59.8"
+			}
+		],
+		"hotSalelist":[
+			{
+				"imgPath":"./img/74a61cbde499a728572c24c29a3688e5.jpg",
+				"title":"【热销爆款】抢手货零食包1065g(含夏威夷果)/共8包 ",
+				"desc":"立减50元",
+				"price":"¥34.9 ",
+				"delPrice":"¥119.8"
+			},
+			{
+				"imgPath":"./img/057ac820fba1dfe98ff4f9b8a2f03a6d.jpg",
+				"title":"【热销爆款】麻薯210g*3袋 ",
+				"desc":"前100份半价",
+				"price":"¥14.5 ",
+				"delPrice":"¥77.4"
+			},
+			{
+				"imgPath":"./img/80914da239bcec0a71c1100af910d000.jpg",
+				"title":"【热销爆款】芒果干120g*3袋 ",
+				"desc":"前100份抢购",
+				"price":"¥27.9 ",
+				"delPrice":"¥66.8"
+			},
+			{
+				"imgPath":"./img/a5ebf3aa40b3ac9c13dfd4d29189627b.jpg",
+				"title":"【热销爆款】蔓越莓牛轧奶芙 160g*2袋 ",
+				"desc":"两件立减12元",
+				"price":"¥20.9 ",
+				"delPrice":"¥41.9"
+			},
+			{
+				"imgPath":"./img/0eba1864e084ba68f258e159ec4bb9ab.jpg",
+				"title":"水果干礼盒 1156g/盒 ",
+				"desc":"限量100份",
+				"price":"¥88 ",
+				"delPrice":"¥168"
+			},
+			{
+				"imgPath":"./img/4a774aecaa994bf3b9f1c367eb456c7c.jpg",
+				"title":"草莓蓝莓黄桃味果粒酸奶块 54g/盒 ",
+				"desc":"限时抢购",
+				"price":"¥21.9 ",
+				"delPrice":"¥27.8"
+			}
+		],
+		"recommendContentList":[
+			{
+				"cotegoryTitle":"./img/690cb5db5ad2d41d2ebde79aa64ec846.jpg",
+				"arr1":[
+					{
+						"imgPath":"./img/61c0fa6ee5a7dcf0d3d8d2badc4f65ab.jpg",
+						"title":"夏威夷果",
+						"price":"¥49.9 ",
+						"delPrice":"¥78.8"
+					},
+					{
+						"imgPath":"./img/8ccb106dcfe1b2ec0bd08774603b708c.jpg",
+						"title":"碧根果",
+						"price":"¥21.8 ",
+						"delPrice":"¥49.6"
+					},
+					{
+						"imgPath":"./img/c7c907353c2afcd64f4501fb90a2dafc.jpg",
+						"title":"开心果",
+						"price":"¥18.9 ",
+						"delPrice":"¥37.9"
+					},
+					{
+						"imgPath":"./img/dc339eeace655c684459d8308277d46b.jpg",
+						"title":"巴旦木",
+						"price":"¥39.90",
+						"delPrice":"¥59.80"
+					}
+				],
+				"arr2":[
+					{"imgPath":"./img/c75a0544e0e01a1d6fd503dc6a7a16fe.jpg","title":"板栗仁","price":"¥21.90","delPrice":"¥29.90"},
+					{"imgPath":"./img/56a8fdac415118257d2c42942078823d.jpg","title":"巴旦木","price":"¥12.90","delPrice":"¥21.80"},
+					{"imgPath":"./img/4f19757272b3241545b105a93e16c9a0.jpg","title":"葵花籽","price":"¥6.90","delPrice":"¥16.80"},
+					{"imgPath":"./img/aae8561180ee4149ea880b8daf3d6ab2.jpg","title":"多味花生","price":"¥17.80","delPrice":"¥36.80"}
+				]
+			},
+			{
+				"cotegoryTitle":"./img/68ee35bf268e082b3bc4aca15a964542.jpg",
+				"arr1":[
+					{"imgPath":"./img/1b359941a07a440d54b6b7b167d7786b.jpg","title":"猪肉脯","price":"¥19.90","delPrice":"¥39.80"},
+					{"imgPath":"./img/d17a79e7fe644d74287cbdedfd739bff.jpg","title":"小香肠","price":"¥13.90","delPrice":"¥24.90"},
+					{"imgPath":"./img/0d521bd61e7c4cbe6569c79e7c9c22e4.jpg","title":"牛肉粒","price":"¥11.90","delPrice":"¥19.80"},
+					{"imgPath":"./img/85d7e518cb8e5eae0efb1f89d133a715.jpg","title":"牛肉丸","price":"¥14.90","delPrice":"¥39.80"}
+				],
+				"arr2":[
+					{"imgPath":"./img/48fcc5496274cbc610c5b6429308fb4d.jpg","title":"猪脆骨","price":"¥19.90","delPrice":"¥43.80"},
+					{"imgPath":"./img/9099d0403e70ffe4d0b3130e679e8943.jpg","title":"鱿鱼条","price":"¥14.90","delPrice":"¥16.90"},
+					{"imgPath":"./img/c277d30cb3c23781a445816053c30f58.jpg","title":"鱼丸","price":"¥9.90","delPrice":"¥19.80"},
+					{"imgPath":"./img/ad53cf6de6e5025fb7296acf5137a670.jpg","title":"牛板筋","price":"¥13.90","delPrice":"¥27.90"}
+				]
+			},
+			{
+				"cotegoryTitle":"./img/38d8b74120f9570586e5a879f98181de.jpg",
+				"arr1":[
+					{"imgPath":"./img/230ced1575e017feb8d55d9b866ae447.jpg","title":"芒果干","price":"¥23.90","delPrice":"¥52.80"},
+					{"imgPath":"./img/4416d56da4e2813e7cfe0cc73313bc1b.jpg","title":"草莓干","price":"¥19.90","delPrice":"¥46.80"},
+					{"imgPath":"./img/b96426cf1e494b4fd6d93e006269a5d8.jpg","title":"冻干榴莲干","price":"¥12.90","delPrice":"¥25.80"},
+					{"imgPath":"./img/87c05932166f61e1be36cccc25acf646.jpg","title":"黄桃干","price":"¥11.90","delPrice":"¥19.80"}
+				],
+				"arr2":[
+					{"imgPath":"./img/fb891d693e26f512c828ae77b684e5a4.jpg","title":"蔓越莓干","price":"¥15.90","delPrice":"¥35.90"},
+					{"imgPath":"./img/f64c54a1a7185887adbe29ab122a4d03.jpg","title":"提子干","price":"¥5.90","delPrice":"¥11.80"},
+					{"imgPath":"./img/f32f46500171ed82f1f288850596f030.jpg","title":"红枣条","price":"¥21.90","delPrice":"¥38.90"},
+					{"imgPath":"./img/43ed98b999d05cc037fe7e3d05e5acc3.jpg","title":"山楂条","price":"¥7.90","delPrice":"¥15.80"}
+				]
+			},
+			{
+				"cotegoryTitle":"./img/07989fef5f70d6ca858a6c6ac1c76eb3.jpg",
+				"arr1":[
+					{"imgPath":"./img/0202d88a559f7eb8f66fa071eca0ba4b.jpg","title":"爆浆曲奇","price":"¥14.90","delPrice":"¥25.80"},
+					{"imgPath":"./img/f405a3b6c9d462a85b48c8338fdb496e.jpg","title":"蔓越莓曲奇","price":"¥14.90","delPrice":"¥32.80"},
+					{"imgPath":"./img/1ba4a68f1b90b8c7b08a4829b88eace6.jpg","title":"薄脆饼干","price":"¥17.80","delPrice":"¥17.80"}
+				],
+				"arr2":[
+					{"imgPath":"./img/c778b1aca023150bd61c818571371fce.jpg","title":"手撕面包","price":"¥24.90","delPrice":"¥59.80"},
+					{"imgPath":"./img/93f472cea6382c353bfb8af8a3f6a7bd.jpg","title":"蛋黄酥","price":"¥17.90","delPrice":"¥36.80"},
+					{"imgPath":"./img/a452ddaee1ffdc8f1628ba3785424aab.jpg","title":"蒸米糕","price":"¥32.90","delPrice":"¥63.80"}
+				]
+			},
+			{
+				"cotegoryTitle":"./img/8be97a3c57a3ee0e73f6188d1c576862.jpg",
+				"arr1":[
+					{"imgPath":"./img/02d206701303e88740bd0a7ebd098559.jpg","title":"大辣片","price":"¥5.90","delPrice":"¥19.90"},
+					{"imgPath":"./img/ba5c40a7a70ae3a4de0f76e1c8c4a576.jpg","title":"魔芋素毛肚","price":"¥10.90","delPrice":"¥29.80"},
+					{"imgPath":"./img/b0e19741de26c41d71988746ae42f12d.jpg","title":"豆干","price":"¥5.90","delPrice":"¥15.80"},
+					{"imgPath":"./img/09761f89f392de72969e6b88fd4a9602.jpg","title":"香菇豆卷","price":"¥10.90","delPrice":"¥21.80"}
+				],
+				"arr2":[
+					{"imgPath":"./img/7359ade83b01cf5e6c2745dc680ce843.jpg","title":"鸡蛋干","price":"¥12.90","delPrice":"¥12.90"},
+					{"imgPath":"./img/b0fa361858299163d24b327ee340dc14.jpg","title":"辣方了辣条","price":"¥10.90","delPrice":"¥21.80"},
+					{"imgPath":"./img/d8445eb2a3e841ea7707adb1dc6c08e2.jpg","title":"手撕素肉","price":"¥10.90","delPrice":"¥26.80"},
+					{"imgPath":"./img/0b296d17cd44d5bfb72bf20fd392e974.jpg","title":"香辣卤藕","price":"¥","delPrice":""}
+				]
+			},
+			{
+				"cotegoryTitle":"./img/2f30283f1ec8923f434fb2063695ff77.jpg",
+				"arr1":[
+					{"imgPath":"./img/996734aa89584ad0514b711f3208335d.jpg","title":"【礼盒】小伙伴的鞭炮","price":"¥","delPrice":""},
+					{"imgPath":"./img/ca7fd21527273dd1b359e59653b6ce6a.jpg","title":"卤味大礼包","price":"¥44.90","delPrice":"¥99.80"},
+					{"imgPath":"./img/7533d938009f2558ec4dee9313d8007a.jpg","title":"一桶天下C礼盒","price":"¥","delPrice":""}
+				],
+				"arr2":[
+					{"imgPath":"./img/980d112a6bb1931c9eb1dc6cd3141388.jpg","title":"【礼盒】全家的年夜饭","price":"¥","delPrice":""},
+					{"imgPath":"./img/3c9e97fa6f9c629d349602a711c65180.jpg","title":"每日坚果","price":"¥109","delPrice":"¥289"},
+					{"imgPath":"./img/f12506c64a8daf78a84a6473700bf06d.jpg","title":"水果干礼盒","price":"¥88","delPrice":"¥168"}
+				]
+			}
+		]
+	}
+}

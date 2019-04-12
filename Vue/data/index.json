@@ -1,0 +1,83 @@
+{
+	"result":{
+		"navList":[
+			{
+				"title":"推荐",
+				"templatePath":"recommend"
+			},
+			{
+				"title":"坚果炒货",
+				"templatePath":"nut"
+			},
+			{
+				"title":"果干蜜饯",
+				"templatePath":"driedFruit"
+			},
+			{
+				"title":"肉脯海鲜",
+				"templatePath":"meat"
+			},
+			{
+				"title":"礼盒专区",
+				"templatePath":"giftBox"
+			},
+			{
+				"title":"糕点糖果",
+				"templatePath":"candies"
+			},
+			{
+				"title":"豆干素食",
+				"templatePath":"driedBean"
+			}
+		],
+		"driedFruitlist":{
+			"bannerArr":[
+				{"imgPath":"./img/3368028de7a9c487d7053fbacd492c35.jpg"}
+			],
+			"productArr":[
+				{"imgPath":"./img/7d716578b0848f9531571012203a9d6b.jpg","title":"每一片都是阳光的味道","subtitle":"【3袋装】芒果干120g/袋","price":"27.9 ","delPrice":"¥66.80"},
+				{"imgPath":"./img/fcaccd94d807654ff27b93473f0f2edc.jpg","title":"浓郁果香 实力拍档","subtitle":"【3袋组合】水果干组合 250g","price":"29.9 ","delPrice":"¥59.80"},
+				{"imgPath":"./img/61177d50367a4fbc97f424e3a96dcb78.jpg","title":"治愈系坚果零食","subtitle":"【2盒装】抱抱果- 红枣夹核桃仁 260g/盒","price":"44.9 ","delPrice":"¥119.80"},
+				{"imgPath":"./img/9f2f8cb6f6fd457aba365e3f181917bc.jpg","title":"脱水去核清甜无渣","subtitle":"【5袋装】脆冬枣35g/袋","price":"21.8 ","delPrice":"¥48"},
+				{"imgPath":"./img/a53fe8ecb176c179ba3ff9d89699a9ac.jpg","title":"红颜草莓甜蜜相伴","subtitle":"【2袋装】草莓干100g/袋","price":"19.9 ","delPrice":"¥46.80"},
+				{"imgPath":"./img/49ae2c23dc9283675a48deca9a196ad7.jpg","title":"四色组合 一次享受","subtitle":"【4袋组合】四色葡萄干组合 800g","price":"69 ","delPrice":"¥138"},
+				{"imgPath":"./img/581868037e8976844.jpg","title":"西域鲜果，地道风味","subtitle":"无核白葡萄干200g/袋","price":"12.9 ","delPrice":"¥24.80"},
+				{"imgPath":"./img/57d9cd5618de57159b5bb902b87c1c0b.jpg","title":"带果柄的葡萄干","subtitle":"黑加仑葡萄干200g/袋","price":"13.8 ","delPrice":"¥24.80"},
+				{"imgPath":"./img/c6822687467f3179c583e3200c918715.jpg","title":"来自新疆的好味道","subtitle":"玫瑰红葡萄干200g/袋","price":"10.9 ","delPrice":"¥18.80"},
+				{"imgPath":"./img/5840f194b699b5051.jpg","title":"葡萄架下异域美食","subtitle":"金凰后葡萄干200g/袋","price":"9.9 ","delPrice":"¥29.80"},
+				{"imgPath":"./img/57e223df5ffaa048ac819839a293b104.jpg","title":"每一片都是阳光的味道","subtitle":"【2袋装】芒果干120g/袋","price":"23.9 ","delPrice":"¥52.80"},
+				{"imgPath":"./img/c06c25dccf8f6c300a9fbc9caf75311f.jpg","title":"开袋立享柠檬酸爽","subtitle":"【3袋装】即食柠檬片65g/袋","price":"23.9 ","delPrice":"¥44.80"},
+				{"imgPath":"./img/e4941e7c61de9f04397b4efe4b802bca.jpg","title":"酥脆绵软独榴此味","subtitle":"【2袋装】冻干榴莲干30g/袋","price":"22.9 ","delPrice":"¥50.60"},
+				{"imgPath":"./img/55248a50646ca7473b1aecbfc5fa8677.jpg","title":"甜蜜菠萝鲜时刻","subtitle":"【2袋装】菠萝干100g/袋","price":"19.9 ","delPrice":"¥36.80"},
+				{"imgPath":"./img/c191247eea097574e4867e639a19dd35.jpg","title":"橙黄肉厚阳光美味","subtitle":"【2袋装】黄桃干100g/袋","price":"20.9 ","delPrice":"¥36.80"},
+				{"imgPath":"./img/763bd929d85b892da3c40b9f02bf3209.jpg","title":"恋上酸甜“轻”滋味","subtitle":"【2袋装】蔓越莓干100g/袋","price":"15.9 ","delPrice":"¥35.90"},
+				{"imgPath":"./img/581401f38f7c87314.jpg","title":"冰糖与山楂的爱恋","subtitle":"冰糖山楂120g/袋","price":"9.9","delPrice":"¥19.80 "},
+				{"imgPath":"./img/89836794aa617c00a4dd16dda784300a.jpg","title":"口味清甜柔韧有嚼劲","subtitle":"木瓜干100g/袋","price":"12.5 ","delPrice":"¥19.80"},
+				{"imgPath":"./img/5814046730af99603.jpg","title":"吃出红杏的鲜果味","subtitle":"【2袋装】红杏干100g/袋","price":"17.9 ","delPrice":"¥32.80"},
+				{"imgPath":"./img/59c2170feb479c40a910ec052c03f1f5.jpg","title":"橙黄肉厚阳光美味","subtitle":"【3袋装】黄桃干100g/袋","price":"25.9 ","delPrice":"¥55.80"}
+			]
+		},
+		"nutList":{
+			"bannerArr":[
+				{}
+			],
+			"productArr":[
+				{"imgPath":"./img/b2cf5116724d2e6bce36275d5c460c1c.jpg","title":"香脆易嗑 仁大饱满","subtitle":"绿茶味白瓜籽160g","price":"11.9 ","delPrice":"¥19.80"},
+				{"imgPath":"./img/476e39080a91af9818800a4248144949.jpg","title":"咸甜鲜香 仁大饱满","subtitle":"【3袋装】多味瓜子160g","price":"21.9 ","delPrice":"¥43.80"},
+				{"imgPath":"./img/3e7384fce41ca7b3eeaa68a48409f52e.jpg","title":"300°大开口 轻松剥果仁","subtitle":"【3袋装】奶油味夏威夷果200g/袋","price":"49.9 ","delPrice":"¥78.80"},
+				{"imgPath":"./img/504be0342dc5861dececb89135d38538.jpg","title":"奶香酥脆好果仁","subtitle":"【2袋装】奶油味碧根果190g/袋","price":"38.9 ","delPrice":"¥65.80"},
+				{"imgPath":"./img/3d624a8c6b40912afb29e2a071a1f48a.jpg","title":"大个 好剥 吃不停","subtitle":"【2袋装】东北松子200g/袋","price":"56.9 ","delPrice":"¥78.80"},
+				{"imgPath":"./img/702d23d295e88d783a08153d1bd8f175.jpg","title":"松脆奶香好果仁","subtitle":"【2袋装】奶香味巴旦木180g/袋","price":"39.9 ","delPrice":"¥59.80"},
+				{"imgPath":"./img/66637ff7ceab67ac19d297e3062c9a66.jpg","title":"300°大开口 轻松剥果仁","subtitle":"【2袋装】奶油味夏威夷果218g/袋","price":"49.8 ","delPrice":"¥73.80"},
+				{"imgPath":"./img/5816bb42e72671019.jpg","title":"琥珀食光 核桃不涩","subtitle":"琥珀核桃仁168g/袋","price":"19.9 ","delPrice":"¥32.80"},
+				{"imgPath":"./img/91b7e673be616850e51fa56cbb96b4da.jpg","title":"粒粒香酥“腰”你开吃","subtitle":"【2袋装】炭烧腰果190g/袋","price":"49.9 ","delPrice":"¥66.80"},
+				{"imgPath":"./img/df54ecb19b866a3e962150b30cfda70a.jpg","title":"3味一起嗨 大咖齐聚","subtitle":"【3袋组合】爆款坚果组合B款 570g","price":"52.9 ","delPrice":"¥101.60"},
+				{"imgPath":"./img/5816b78409c753228.jpg","title":"天然进口榛子更大开口","subtitle":"开口榛子180g/袋","price":"17.9 ","delPrice":"¥33.80"},
+				{"imgPath":"./img/805741a1b8cb83dca4626592556ebe02.jpg","title":"手捧一颗【仁】心献给你","subtitle":"夏威夷果仁158g/袋","price":"36.9 ","delPrice":"¥66.80"},
+				{"imgPath":"./img/f242911eb0984aafb2e6baad78de4c8f.jpg","title":"酥脆好果仁 日久见仁心","subtitle":"碧根果仁168g/袋","price":"32.8 ","delPrice":"¥50.80"},
+				{"imgPath":"./img/5816badbc6b0d9403.jpg","title":"好剥才能吃得爽","subtitle":"手剥小白杏200g/袋","price":"17.9 ","delPrice":"¥15.90"},
+				{"imgPath":"./img/581077bb7d5c04541.jpg","title":"松脆大果仁 仁见人爱","subtitle":"巴旦木仁190g/袋","price":"19.9 ","delPrice":"¥45.90"}
+			]
+		}
+	}
+}

@@ -1,0 +1,72 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	outline: 0;
+	list-style: none;
+	font-size: 1.2rem;
+	box-sizing: border-box;
+}
+html,body,#app{
+	height: 100%;
+}
+html{
+	font-size: 62.5%;
+}
+body{
+	margin: 0 auto;
+    min-width: 320px;
+    max-width: 100%;
+    font-family: Microsoft YaHei,Arial,Helvetica;
+    background: #ededed;
+    color: #3c4347;
+    font-size: 1.2rem;
+    height: 100%;
+}
+del{
+	color: #999;
+    font-weight: 400;
+}
+.ohidden,.texthidden{
+	overflow: hidden;
+}
+.texthidden{
+	white-space: nowrap;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    padding-left: 0;
+}
+em,i,strong{
+	font-style: normal;
+    font-weight: 400;
+}
+a{
+	color: #3C4347;
+	text-decoration: none;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+img{
+    width: 100%;
+    vertical-align: middle;
+}
+.fr{
+	float: right;
+}
+.fl{
+	float: left;
+}
+@media screen and (min-width:375px) {
+	html{
+		font-size: 62.5%;
+	}
+}
+@media screen and (min-width:414px) {
+	html{
+		font-size: 73.24%;
+	}
+}
+@media screen and (min-width:481px) {
+	html{
+		font-size: 88%;
+	}
+}

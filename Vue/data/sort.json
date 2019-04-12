@@ -1,0 +1,20 @@
+{
+	"result":{
+		"sortList":[
+			{"imgPath":"./img/9b1a99345df13040f3c7deae21485954.jpg","title":"热卖爆款"},
+			{"imgPath":"./img/6fae29040cdb2bfb51f2a3203cd0d51f.jpg","title":"199减100专区"},
+			{"imgPath":"./img/dfa7dbed9e8051f7d9bc203e2ee3dcb6.jpg","title":"88元任选10件"},
+			{"imgPath":"./img/55a4e62bcbda56146cfd0f636ba72038.jpg","title":"新品尝鲜"},
+			{"imgPath":"./img/acd84e45c4232238c17c7f04abdf17a0.jpg","title":"人气搭配"},
+			{"imgPath":"./img/49e0dce847e6df67abb84921c2b6a546.jpg","title":"坚果炒货"},
+			{"imgPath":"./img/e92d3501d3af367a81ada08fc27cc505.jpg","title":"果干蜜饯"},
+			{"imgPath":"./img/343eb67bce910abfca2c3c6c9dfb1c45.jpg","title":"肉脯海鲜"},
+			{"imgPath":"./img/5beafe4cb3d782bfd4f8496defd1b959.jpg","title":"糕点糖果"},
+			{"imgPath":"./img/53f060bfc6e3c00dd52a34f4f70b3ecc.jpg","title":"饼干膨化"},
+			{"imgPath":"./img/15e759e0c20e4dad1c9d7f4c9e0acb06.jpg","title":"豆干素食"},
+			{"imgPath":"./img/764edc8ee31a8943f3ca67924f8c9bbb.jpg","title":"枣类制品"},
+			{"imgPath":"./img/1e743cc061889f79364653692aa17b2d.jpg","title":"超值礼盒"},
+			{"imgPath":"./img/9712e4da91c7af47ab3d4139e88faa17.jpg","title":"新鲜短保"}
+		]
+	}
+}
